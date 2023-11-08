@@ -48,3 +48,5 @@ Interested in Cybersecurity, App Development, Machine Learning and Artificial In
 
 ## Socials
 <a target="_blank" href="mailto:purusinghvi1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:purusinghvi1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:purusinghvi1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
