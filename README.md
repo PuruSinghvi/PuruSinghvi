@@ -1,5 +1,7 @@
 # Puru Singhvi
-[<iframe src="https://giphy.com/embed/077i6AULCXc0FKTj9s" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s">via GIPHY</a></p>](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s)" width="100"/>
+</div>
 Student at SVKM'S NMIMS Mukesh Patel School of Technology Management and Engineering </br>
 B.Tech in Computer Science and Engineering (Cybersecurity)
 
