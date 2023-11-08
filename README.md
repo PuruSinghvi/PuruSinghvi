@@ -1,5 +1,5 @@
-<h2 align="left">Puru Singhvi</h2>
-<h3align="left">Student at MPSTME, NMIMS</h3>
+<h1 align="left">Puru Singhvi</h2>
+<h3 align="left">Student at MPSTME, NMIMS</h3>
 
 ###
 
