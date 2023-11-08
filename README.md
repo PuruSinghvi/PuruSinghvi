@@ -51,4 +51,4 @@ Interested in Cybersecurity, App Development, Machine Learning and Artificial In
 <a target="_blank" href="https://www.linkedin.com/in/purusinghvi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/purusinghvi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://leetcode.com/purusinghvi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
-<a target="_blank" href="https://www.kaggle.com/purusinghvi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://www.kaggle.com/purusinghvi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
