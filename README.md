@@ -46,16 +46,16 @@ Interested in Cybersecurity, App Development, Machine Learning and Artificial In
 
 ###
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=purusinghvi&theme=blue-green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+###
+
 ## Socials
 <a target="_blank" href="mailto:purusinghvi1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/purusinghvi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/purusinghvi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://leetcode.com/purusinghvi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
 <a target="_blank" href="https://www.kaggle.com/purusinghvi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
-
-###
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=purusinghvi&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
