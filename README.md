@@ -1,7 +1,7 @@
 # Puru Singhvi
 Student at SVKM'S NMIMS Mukesh Patel School of Technology Management and Engineering </br>
 B.Tech in Computer Science and Engineering (Cybersecurity)
-</div>
+
 ![](https://komarev.com/ghpvc/?username=purusinghvi&color=blueviolet&style=for-the-badge)
 
 ###
