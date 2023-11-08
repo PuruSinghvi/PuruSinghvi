@@ -55,10 +55,7 @@ Interested in Cybersecurity, App Development, Machine Learning and Artificial In
 
 ###
 
-## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=purusinghvia&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=purusinghvi&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=purusinghvi&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
