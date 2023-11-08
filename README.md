@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Puru Singhvi and I'm a student at MPSTME, NMIMS.</h2>
+<h2 align="left">Puru Singhvi</h2>
+<h3align="left">Student at MPSTME, NMIMS</h3>
 
 ###
 
