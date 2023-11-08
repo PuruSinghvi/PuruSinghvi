@@ -46,4 +46,4 @@ Interested in Cybersecurity, App Development, Machine Learning and Artificial In
 
 ###
 
-## Contact Me
+## Socials
