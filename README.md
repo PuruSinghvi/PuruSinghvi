@@ -1,6 +1,6 @@
-<h1 align="left">Puru Singhvi</h2>
-<h3 align="left">Student at SVKM'S NMIMS Mukesh Patel School of Technology Management and Engineering</h3>
-<h3 align="left">B.Tech in Computer Science and Engineering (Cybersecurity)</h3>
+# Puru Singhvi
+### Student at SVKM'S NMIMS Mukesh Patel School of Technology Management and Engineering
+### B.Tech in Computer Science and Engineering (Cybersecurity)
 
 ###
 
