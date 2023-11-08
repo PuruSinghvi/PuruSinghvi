@@ -7,6 +7,7 @@ B.Tech in Computer Science and Engineering (Cybersecurity)
 ###
 
 ## Skills
+Interested in Cybersecurity, App Development, Machine Learning and Artificial Intelligence
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -44,3 +45,5 @@ B.Tech in Computer Science and Engineering (Cybersecurity)
 </div>
 
 ###
+
+## Contact Me
