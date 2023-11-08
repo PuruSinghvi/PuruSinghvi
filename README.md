@@ -4,6 +4,7 @@ B.Tech in Computer Science and Engineering (Cybersecurity)
 
 ![](https://komarev.com/ghpvc/?username=purusinghvi&color=blueviolet&style=for-the-badge)
 
+</br></br>
 ###
 
 ## Skills
@@ -44,6 +45,7 @@ Interested in Cybersecurity, App Development, Machine Learning and Artificial In
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
 
+</br></br>
 ###
 
 ## 📊 GitHub Stats:
@@ -51,6 +53,7 @@ Interested in Cybersecurity, App Development, Machine Learning and Artificial In
 ![](https://github-readme-streak-stats.herokuapp.com/?user=purusinghvi&theme=blue-green&hide_border=false)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
+</br></br>
 ###
 
 ## Socials
