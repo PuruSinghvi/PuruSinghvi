@@ -43,16 +43,14 @@ Interested in Cybersecurity, App Development, Machine Learning and Artificial In
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
 
-</br></br>
-###
+</br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=purusinghvi&theme=blue-green&hide_border=false)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purusinghvi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-</br></br>
-###
+</br>
 
 ## Socials
 <a target="_blank" href="mailto:purusinghvi1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
