@@ -2,6 +2,8 @@
 Student at SVKM'S NMIMS Mukesh Patel School of Technology Management and Engineering </br>
 B.Tech in Computer Science and Engineering (Cybersecurity)
 
+![](https://komarev.com/ghpvc/?username=purusinghvi)
+
 ###
 
 <div align="left">
