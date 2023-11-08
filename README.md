@@ -5,7 +5,6 @@ B.Tech in Computer Science and Engineering (Cybersecurity)
 ![](https://komarev.com/ghpvc/?username=purusinghvi&color=blueviolet&style=for-the-badge)
 
 </br>
-###
 
 ## Skills
 Interested in Cybersecurity, App Development, Machine Learning and Artificial Intelligence
