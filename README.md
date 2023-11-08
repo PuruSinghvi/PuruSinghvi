@@ -6,6 +6,7 @@ B.Tech in Computer Science and Engineering (Cybersecurity)
 
 ###
 
+## Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
