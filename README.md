@@ -1,6 +1,6 @@
 # Puru Singhvi
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s)" width="100"/>
+  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s)]()" width="100"/>
 </div>
 Student at SVKM'S NMIMS Mukesh Patel School of Technology Management and Engineering </br>
 B.Tech in Computer Science and Engineering (Cybersecurity)
