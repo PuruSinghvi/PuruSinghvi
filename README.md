@@ -1,6 +1,3 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100"/>
-
 # Puru Singhvi
 Student at SVKM'S NMIMS Mukesh Patel School of Technology Management and Engineering </br>
 B.Tech in Computer Science and Engineering (Cybersecurity)
